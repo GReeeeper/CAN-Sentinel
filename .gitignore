@@ -1,0 +1,14 @@
+# Binaries
+ids_guard
+
+# Object files
+*.o
+*.obj
+
+# Architecture specific contents
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
