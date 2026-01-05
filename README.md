@@ -90,7 +90,8 @@ g++ ids_guard.cpp -o ids_guard
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of the Cyberpunk Dashboard here)*
+<img width="1385" height="792" alt="image" src="https://github.com/user-attachments/assets/64725aae-a0bf-453b-9a68-0682f7bef1d7" />
+
 
 ---
 
