@@ -32,11 +32,11 @@
 
 ```mermaid
 graph TD
-    A[Physics Engine] -->|CAN Frames| B(Virtual CAN Bus : vcan0)
-    C[Attacker Injector] -->|Malicious Frames| B
-    B -->|Telemetry| D[Digital Dashboard]
-    B -->|Sniffer| E[Intrusion Detection System]
-    E -->|Alert!| D
+    A["Physics Engine"] -->|"CAN Frames"| B("Virtual CAN Bus : vcan0")
+    C["Attacker Injector"] -->|"Malicious Frames"| B
+    B -->|"Telemetry"| D["Digital Dashboard"]
+    B -->|"Sniffer"| E["Intrusion Detection System"]
+    E -->|"Alert!"| D
 ```
 
 ---
